@@ -37,6 +37,11 @@
     > Please change these four parameter to your information
 1. Relax and enjoy!
 
+## Customization or contribute to the project
+
+1. If you want to customize the application, please feel free to `fork` the repository and do you change, build and run whatever you want.
+1. If you have great idea to improve this program, you are welcome to send the `pull request` to me, and I will check the code, and hopefully your code can merge to the repository.
+
 ## Feedback
 
 Email : <teamscommunity@microsoft.com>
