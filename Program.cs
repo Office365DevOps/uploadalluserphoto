@@ -62,6 +62,8 @@ namespace updatealluserphoto
             {
                 Console.WriteLine("Please check the args...");
             });
+
+            Console.ReadKey();
         }
     }
 }
